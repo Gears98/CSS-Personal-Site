@@ -156,6 +156,13 @@ h3 {
   margin-left: 30px;
 }
 
+.edit-notes {
+  padding: 25px;
+  color: lightgray;
+  font-size: 0.8rem;
+
+}
+
 .pro {
   text-decoration: underline;
 }
